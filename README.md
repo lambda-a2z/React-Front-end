@@ -1,6 +1,6 @@
 # React-Front-end
 
-FOR A 2 Z Experiences.
+FOR A TO Z Experiences.
 
 ## Build Week Schedule
 
